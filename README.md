@@ -1,6 +1,6 @@
 # URL File List Downloader
 
-This Python script allows you to download files from a list of URLs and save them locally with progress tracking and error handling.
+This Python script allows you to download files from a list of file URLs and save them locally with progress tracking and error handling.
 
 ## Features
 
